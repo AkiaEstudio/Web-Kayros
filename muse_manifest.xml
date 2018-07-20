@@ -1,0 +1,403 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kayros.com" resolutions="1x" timestamp="1532043122044">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-p_g_-maestra.css" crc="317943834" ref="inventario:gigantografias:proformas:merchandising:liquidación-de-compra:-portafolio-:publicidad-virtual:hoja-de-ruta:papelería-corporativa:notas-de-pedido:etiquetas:-promociones-:revista-kayros:nota-de-crédito:index:factura:guía-de-remición---transportista:-nosotros-:boleto-de-viaje:tickets-(rifas):-servicios-:contratos:letras-de-cambio:-oficinas-:-clientes-:formatería-en-general:hojas-de-control-diario:guía-de-remisión---remitente:boleta-de-venta:publicidad-impresa:recibos-de-caja"/>
+    <file name="inventario.css" crc="3771296692" ref="inventario"/>
+    <file name="gigantografias.css" crc="4261661723" ref="gigantografias"/>
+    <file name="proformas.css" crc="4133268055" ref="proformas"/>
+    <file name="merchandising.css" crc="4261661723" ref="merchandising"/>
+    <file name="liquidaci_n-de-compra.css" crc="4024628686" ref="liquidación-de-compra"/>
+    <file name="-portafolio-.css" crc="4038563142" ref="-portafolio-"/>
+    <file name="publicidad-virtual.css" crc="4261661723" ref="publicidad-virtual"/>
+    <file name="hoja-de-ruta.css" crc="3910595704" ref="hoja-de-ruta"/>
+    <file name="papeler_a-corporativa.css" crc="4261661723" ref="papelería-corporativa"/>
+    <file name="notas-de-pedido.css" crc="80221781" ref="notas-de-pedido"/>
+    <file name="etiquetas.css" crc="4261661723" ref="etiquetas"/>
+    <file name="-promociones-.css" crc="3850837152" ref="-promociones-"/>
+    <file name="revista-kayros.css" crc="4261661723" ref="revista-kayros"/>
+    <file name="nota-de-cr_dito.css" crc="3893768702" ref="nota-de-crédito"/>
+    <file name="index.css" crc="3822287097" ref="index"/>
+    <file name="factura.css" crc="4177429136" ref="factura"/>
+    <file name="gu_a-de-remici_n---transportista.css" crc="82065078" ref="guía-de-remición---transportista"/>
+    <file name="-nosotros-.css" crc="3904036026" ref="-nosotros-"/>
+    <file name="boleto-de-viaje.css" crc="105846179" ref="boleto-de-viaje"/>
+    <file name="tickets-_rifas_.css" crc="442207325" ref="tickets-(rifas)"/>
+    <file name="-servicios-.css" crc="4257851097" ref="-servicios-"/>
+    <file name="contratos.css" crc="428773158" ref="contratos"/>
+    <file name="letras-de-cambio.css" crc="4121929370" ref="letras-de-cambio"/>
+    <file name="-oficinas-.css" crc="4261661723" ref="-oficinas-"/>
+    <file name="-clientes-.css" crc="4261661723" ref="-clientes-"/>
+    <file name="formater_a-en-general.css" crc="3871537683" ref="formatería-en-general"/>
+    <file name="hojas-de-control-diario.css" crc="4121238570" ref="hojas-de-control-diario"/>
+    <file name="gu_a-de-remisi_n---remitente.css" crc="4139142361" ref="guía-de-remisión---remitente"/>
+    <file name="boleta-de-venta.css" crc="3781059456" ref="boleta-de-venta"/>
+    <file name="publicidad-impresa.css" crc="4261661723" ref="publicidad-impresa"/>
+    <file name="recibos-de-caja.css" crc="242493519" ref="recibos-de-caja"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:-portafolio-:-nosotros-:-servicios-:-oficinas-:-clientes-:formatería-en-general:publicidad-impresa:gigantografias:merchandising:publicidad-virtual:papelería-corporativa:etiquetas:revista-kayros:factura:boleta-de-venta:guía-de-remisión---remitente:guía-de-remición---transportista:liquidación-de-compra:nota-de-crédito:boleto-de-viaje:recibos-de-caja:contratos:notas-de-pedido:proformas:-promociones-:tickets-(rifas):letras-de-cambio:hojas-de-control-diario:hoja-de-ruta:inventario"/>
+    <file name="museutils.js" crc="4216313831" ref="index:-portafolio-:-nosotros-:-servicios-:-oficinas-:-clientes-:formatería-en-general:publicidad-impresa:gigantografias:merchandising:publicidad-virtual:papelería-corporativa:etiquetas:revista-kayros:factura:boleta-de-venta:guía-de-remisión---remitente:guía-de-remición---transportista:liquidación-de-compra:nota-de-crédito:boleto-de-viaje:recibos-de-caja:contratos:notas-de-pedido:proformas:-promociones-:tickets-(rifas):letras-de-cambio:hojas-de-control-diario:hoja-de-ruta:inventario"/>
+    <file name="whatinput.js" crc="86476730" ref="index:-portafolio-:-nosotros-:-servicios-:-oficinas-:-clientes-:formatería-en-general:publicidad-impresa:gigantografias:merchandising:publicidad-virtual:papelería-corporativa:etiquetas:revista-kayros:factura:boleta-de-venta:guía-de-remisión---remitente:guía-de-remición---transportista:liquidación-de-compra:nota-de-crédito:boleto-de-viaje:recibos-de-caja:contratos:notas-de-pedido:proformas:-promociones-:tickets-(rifas):letras-de-cambio:hojas-de-control-diario:hoja-de-ruta:inventario"/>
+    <file name="museconfig.js" crc="474374037" ref="index:-portafolio-:-nosotros-:-servicios-:-oficinas-:-clientes-:formatería-en-general:publicidad-impresa:gigantografias:merchandising:publicidad-virtual:papelería-corporativa:etiquetas:revista-kayros:factura:boleta-de-venta:guía-de-remisión---remitente:guía-de-remición---transportista:liquidación-de-compra:nota-de-crédito:boleto-de-viaje:recibos-de-caja:contratos:notas-de-pedido:proformas:-promociones-:tickets-(rifas):letras-de-cambio:hojas-de-control-diario:hoja-de-ruta:inventario"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:-portafolio-:-nosotros-:-servicios-:-oficinas-:-clientes-:formatería-en-general:publicidad-impresa:gigantografias:merchandising:publicidad-virtual:papelería-corporativa:etiquetas:revista-kayros:factura:boleta-de-venta:guía-de-remisión---remitente:guía-de-remición---transportista:liquidación-de-compra:nota-de-crédito:boleto-de-viaje:recibos-de-caja:contratos:notas-de-pedido:proformas:-promociones-:tickets-(rifas):letras-de-cambio:hojas-de-control-diario:hoja-de-ruta:inventario"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:-portafolio-:-nosotros-:-servicios-:-oficinas-:-clientes-:formatería-en-general:publicidad-impresa:gigantografias:merchandising:publicidad-virtual:papelería-corporativa:etiquetas:revista-kayros:factura:boleta-de-venta:guía-de-remisión---remitente:guía-de-remición---transportista:liquidación-de-compra:nota-de-crédito:boleto-de-viaje:recibos-de-caja:contratos:notas-de-pedido:proformas:-promociones-:tickets-(rifas):letras-de-cambio:hojas-de-control-diario:hoja-de-ruta:inventario"/>
+    <file name="webpro.js" crc="4143865194" ref="index:-servicios-:formatería-en-general:factura:boleta-de-venta:guía-de-remisión---remitente:guía-de-remición---transportista:liquidación-de-compra:nota-de-crédito:boleto-de-viaje:recibos-de-caja:contratos:notas-de-pedido:proformas:tickets-(rifas):letras-de-cambio:hojas-de-control-diario:hoja-de-ruta:inventario"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index:-servicios-:formatería-en-general:factura:boleta-de-venta:guía-de-remisión---remitente:guía-de-remición---transportista:liquidación-de-compra:nota-de-crédito:boleto-de-viaje:recibos-de-caja:contratos:notas-de-pedido:proformas:tickets-(rifas):letras-de-cambio:hojas-de-control-diario:hoja-de-ruta:inventario"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index:-servicios-:formatería-en-general:factura:boleta-de-venta:guía-de-remisión---remitente:guía-de-remición---transportista:liquidación-de-compra:nota-de-crédito:boleto-de-viaje:recibos-de-caja:contratos:notas-de-pedido:proformas:tickets-(rifas):letras-de-cambio:hojas-de-control-diario:hoja-de-ruta:inventario"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index:-servicios-:formatería-en-general:factura:boleta-de-venta:guía-de-remisión---remitente:guía-de-remición---transportista:liquidación-de-compra:nota-de-crédito:boleto-de-viaje:recibos-de-caja:contratos:notas-de-pedido:proformas:tickets-(rifas):letras-de-cambio:hojas-de-control-diario:hoja-de-ruta:inventario"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:-nosotros-"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:-portafolio-:-nosotros-:-servicios-:-oficinas-:-clientes-:formatería-en-general:publicidad-impresa:gigantografias:merchandising:publicidad-virtual:papelería-corporativa:etiquetas:revista-kayros:factura:boleta-de-venta:guía-de-remisión---remitente:guía-de-remición---transportista:liquidación-de-compra:nota-de-crédito:boleto-de-viaje:recibos-de-caja:contratos:notas-de-pedido:proformas:-promociones-:tickets-(rifas):letras-de-cambio:hojas-de-control-diario:hoja-de-ruta:inventario"/>
+    <file name="require.js" crc="3951022091" ref="index:-portafolio-:-nosotros-:-servicios-:-oficinas-:-clientes-:formatería-en-general:publicidad-impresa:gigantografias:merchandising:publicidad-virtual:papelería-corporativa:etiquetas:revista-kayros:factura:boleta-de-venta:guía-de-remisión---remitente:guía-de-remición---transportista:liquidación-de-compra:nota-de-crédito:boleto-de-viaje:recibos-de-caja:contratos:notas-de-pedido:proformas:-promociones-:tickets-(rifas):letras-de-cambio:hojas-de-control-diario:hoja-de-ruta:inventario"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="-portafolio-:-nosotros-:-servicios-:-promociones-"/>
+  </folder>
+  <folder name="images">
+    <file name="logo_menu.png" crc="136287817" seo="true" ref="index:-portafolio-:-nosotros-:-servicios-:-oficinas-:-clientes-:formatería-en-general:publicidad-impresa:gigantografias:merchandising:publicidad-virtual:papelería-corporativa:etiquetas:revista-kayros:factura:boleta-de-venta:guía-de-remisión---remitente:guía-de-remición---transportista:liquidación-de-compra:nota-de-crédito:boleto-de-viaje:recibos-de-caja:contratos:notas-de-pedido:proformas:-promociones-:tickets-(rifas):letras-de-cambio:hojas-de-control-diario:hoja-de-ruta:inventario">
+      <caption webpage="revista-kayros" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="hoja-de-ruta" alt=""/>
+      <caption webpage="hojas-de-control-diario" alt=""/>
+      <caption webpage="-oficinas-" alt=""/>
+      <caption webpage="formatería-en-general" alt=""/>
+      <caption webpage="letras-de-cambio" alt=""/>
+      <caption webpage="liquidación-de-compra" alt=""/>
+      <caption webpage="factura" alt=""/>
+      <caption webpage="contratos" alt=""/>
+      <caption webpage="proformas" alt=""/>
+      <caption webpage="publicidad-virtual" alt=""/>
+      <caption webpage="-clientes-" alt=""/>
+      <caption webpage="-servicios-" alt=""/>
+      <caption webpage="publicidad-impresa" alt=""/>
+      <caption webpage="notas-de-pedido" alt=""/>
+      <caption webpage="gigantografias" alt=""/>
+      <caption webpage="etiquetas" alt=""/>
+      <caption webpage="nota-de-crédito" alt=""/>
+      <caption webpage="recibos-de-caja" alt=""/>
+      <caption webpage="inventario" alt=""/>
+      <caption webpage="-nosotros-" alt=""/>
+      <caption webpage="papelería-corporativa" alt=""/>
+      <caption webpage="tickets-(rifas)" alt=""/>
+      <caption webpage="-promociones-" alt=""/>
+      <caption webpage="guía-de-remisión---remitente" alt=""/>
+      <caption webpage="boleta-de-venta" alt=""/>
+      <caption webpage="merchandising" alt=""/>
+      <caption webpage="-portafolio-" alt=""/>
+      <caption webpage="boleto-de-viaje" alt=""/>
+      <caption webpage="guía-de-remición---transportista" alt=""/>
+    </file>
+    <file name="slider-1.png" crc="4204571082" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:-servicios-:formatería-en-general:factura:boleta-de-venta:guía-de-remisión---remitente:guía-de-remición---transportista:liquidación-de-compra:nota-de-crédito:boleto-de-viaje:recibos-de-caja:contratos:notas-de-pedido:proformas:tickets-(rifas):letras-de-cambio:hojas-de-control-diario:hoja-de-ruta:inventario"/>
+    <file name="slider-2.jpg" crc="367938152" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider-3.jpg" crc="3861517504" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:-servicios-:formatería-en-general:factura:boleta-de-venta:guía-de-remisión---remitente:guía-de-remición---transportista:liquidación-de-compra:nota-de-crédito:boleto-de-viaje:recibos-de-caja:contratos:notas-de-pedido:proformas:tickets-(rifas):letras-de-cambio:hojas-de-control-diario:hoja-de-ruta:inventario"/>
+    <file name="fondo.png" crc="533118046" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider_pie.png" crc="291520830" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle_1.png" crc="517417792" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle_2.png" crc="4136313854" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle_3.png" crc="116194604" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manito-contacto.svg" crc="4250304793" seo="true" ref="index:-portafolio-:-nosotros-:-servicios-:-oficinas-:-clientes-:formatería-en-general:publicidad-impresa:gigantografias:merchandising:publicidad-virtual:papelería-corporativa:etiquetas:revista-kayros:factura:boleta-de-venta:guía-de-remisión---remitente:guía-de-remición---transportista:liquidación-de-compra:nota-de-crédito:boleto-de-viaje:recibos-de-caja:contratos:notas-de-pedido:proformas:-promociones-:tickets-(rifas):letras-de-cambio:hojas-de-control-diario:hoja-de-ruta:inventario">
+      <caption webpage="revista-kayros" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="hoja-de-ruta" alt=""/>
+      <caption webpage="hojas-de-control-diario" alt=""/>
+      <caption webpage="-oficinas-" alt=""/>
+      <caption webpage="formatería-en-general" alt=""/>
+      <caption webpage="letras-de-cambio" alt=""/>
+      <caption webpage="liquidación-de-compra" alt=""/>
+      <caption webpage="factura" alt=""/>
+      <caption webpage="contratos" alt=""/>
+      <caption webpage="proformas" alt=""/>
+      <caption webpage="publicidad-virtual" alt=""/>
+      <caption webpage="-clientes-" alt=""/>
+      <caption webpage="-servicios-" alt=""/>
+      <caption webpage="publicidad-impresa" alt=""/>
+      <caption webpage="notas-de-pedido" alt=""/>
+      <caption webpage="gigantografias" alt=""/>
+      <caption webpage="etiquetas" alt=""/>
+      <caption webpage="nota-de-crédito" alt=""/>
+      <caption webpage="recibos-de-caja" alt=""/>
+      <caption webpage="inventario" alt=""/>
+      <caption webpage="-nosotros-" alt=""/>
+      <caption webpage="papelería-corporativa" alt=""/>
+      <caption webpage="tickets-(rifas)" alt=""/>
+      <caption webpage="-promociones-" alt=""/>
+      <caption webpage="guía-de-remisión---remitente" alt=""/>
+      <caption webpage="boleta-de-venta" alt=""/>
+      <caption webpage="merchandising" alt=""/>
+      <caption webpage="-portafolio-" alt=""/>
+      <caption webpage="boleto-de-viaje" alt=""/>
+      <caption webpage="guía-de-remición---transportista" alt=""/>
+    </file>
+    <file name="manito contacto_poster_.png" crc="348425997" ref="index"/>
+    <file name="contacto_facebook.svg" crc="4091613837" seo="true" ref="index:-portafolio-:-nosotros-:-servicios-:-oficinas-:-clientes-:formatería-en-general:publicidad-impresa:gigantografias:merchandising:publicidad-virtual:papelería-corporativa:etiquetas:revista-kayros:factura:boleta-de-venta:guía-de-remisión---remitente:guía-de-remición---transportista:liquidación-de-compra:nota-de-crédito:boleto-de-viaje:recibos-de-caja:contratos:notas-de-pedido:proformas:-promociones-:tickets-(rifas):letras-de-cambio:hojas-de-control-diario:hoja-de-ruta:inventario">
+      <caption webpage="revista-kayros" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="hoja-de-ruta" alt=""/>
+      <caption webpage="hojas-de-control-diario" alt=""/>
+      <caption webpage="-oficinas-" alt=""/>
+      <caption webpage="formatería-en-general" alt=""/>
+      <caption webpage="letras-de-cambio" alt=""/>
+      <caption webpage="liquidación-de-compra" alt=""/>
+      <caption webpage="factura" alt=""/>
+      <caption webpage="contratos" alt=""/>
+      <caption webpage="proformas" alt=""/>
+      <caption webpage="publicidad-virtual" alt=""/>
+      <caption webpage="-clientes-" alt=""/>
+      <caption webpage="-servicios-" alt=""/>
+      <caption webpage="publicidad-impresa" alt=""/>
+      <caption webpage="notas-de-pedido" alt=""/>
+      <caption webpage="gigantografias" alt=""/>
+      <caption webpage="etiquetas" alt=""/>
+      <caption webpage="nota-de-crédito" alt=""/>
+      <caption webpage="recibos-de-caja" alt=""/>
+      <caption webpage="inventario" alt=""/>
+      <caption webpage="-nosotros-" alt=""/>
+      <caption webpage="papelería-corporativa" alt=""/>
+      <caption webpage="tickets-(rifas)" alt=""/>
+      <caption webpage="-promociones-" alt=""/>
+      <caption webpage="guía-de-remisión---remitente" alt=""/>
+      <caption webpage="boleta-de-venta" alt=""/>
+      <caption webpage="merchandising" alt=""/>
+      <caption webpage="-portafolio-" alt=""/>
+      <caption webpage="boleto-de-viaje" alt=""/>
+      <caption webpage="guía-de-remición---transportista" alt=""/>
+    </file>
+    <file name="contacto_facebook_poster_.png" crc="157001542" ref="index"/>
+    <file name="contacto_gmail.svg" crc="3888178849" seo="true" ref="index:-portafolio-:-nosotros-:-servicios-:-oficinas-:-clientes-:formatería-en-general:publicidad-impresa:gigantografias:merchandising:publicidad-virtual:papelería-corporativa:etiquetas:revista-kayros:factura:boleta-de-venta:guía-de-remisión---remitente:guía-de-remición---transportista:liquidación-de-compra:nota-de-crédito:boleto-de-viaje:recibos-de-caja:contratos:notas-de-pedido:proformas:-promociones-:tickets-(rifas):letras-de-cambio:hojas-de-control-diario:hoja-de-ruta:inventario">
+      <caption webpage="revista-kayros" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="hoja-de-ruta" alt=""/>
+      <caption webpage="hojas-de-control-diario" alt=""/>
+      <caption webpage="-oficinas-" alt=""/>
+      <caption webpage="formatería-en-general" alt=""/>
+      <caption webpage="letras-de-cambio" alt=""/>
+      <caption webpage="liquidación-de-compra" alt=""/>
+      <caption webpage="factura" alt=""/>
+      <caption webpage="contratos" alt=""/>
+      <caption webpage="proformas" alt=""/>
+      <caption webpage="publicidad-virtual" alt=""/>
+      <caption webpage="-clientes-" alt=""/>
+      <caption webpage="-servicios-" alt=""/>
+      <caption webpage="publicidad-impresa" alt=""/>
+      <caption webpage="notas-de-pedido" alt=""/>
+      <caption webpage="gigantografias" alt=""/>
+      <caption webpage="etiquetas" alt=""/>
+      <caption webpage="nota-de-crédito" alt=""/>
+      <caption webpage="recibos-de-caja" alt=""/>
+      <caption webpage="inventario" alt=""/>
+      <caption webpage="-nosotros-" alt=""/>
+      <caption webpage="papelería-corporativa" alt=""/>
+      <caption webpage="tickets-(rifas)" alt=""/>
+      <caption webpage="-promociones-" alt=""/>
+      <caption webpage="guía-de-remisión---remitente" alt=""/>
+      <caption webpage="boleta-de-venta" alt=""/>
+      <caption webpage="merchandising" alt=""/>
+      <caption webpage="-portafolio-" alt=""/>
+      <caption webpage="boleto-de-viaje" alt=""/>
+      <caption webpage="guía-de-remición---transportista" alt=""/>
+    </file>
+    <file name="contacto_gmail_poster_.png" crc="4030078078" ref="index"/>
+    <file name="contacto_instagram.svg" crc="473986279" seo="true" ref="index:-portafolio-:-nosotros-:-servicios-:-oficinas-:-clientes-:formatería-en-general:publicidad-impresa:gigantografias:merchandising:publicidad-virtual:papelería-corporativa:etiquetas:revista-kayros:factura:boleta-de-venta:guía-de-remisión---remitente:guía-de-remición---transportista:liquidación-de-compra:nota-de-crédito:boleto-de-viaje:recibos-de-caja:contratos:notas-de-pedido:proformas:-promociones-:tickets-(rifas):letras-de-cambio:hojas-de-control-diario:hoja-de-ruta:inventario">
+      <caption webpage="revista-kayros" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="hoja-de-ruta" alt=""/>
+      <caption webpage="hojas-de-control-diario" alt=""/>
+      <caption webpage="-oficinas-" alt=""/>
+      <caption webpage="formatería-en-general" alt=""/>
+      <caption webpage="letras-de-cambio" alt=""/>
+      <caption webpage="liquidación-de-compra" alt=""/>
+      <caption webpage="factura" alt=""/>
+      <caption webpage="contratos" alt=""/>
+      <caption webpage="proformas" alt=""/>
+      <caption webpage="publicidad-virtual" alt=""/>
+      <caption webpage="-clientes-" alt=""/>
+      <caption webpage="-servicios-" alt=""/>
+      <caption webpage="publicidad-impresa" alt=""/>
+      <caption webpage="notas-de-pedido" alt=""/>
+      <caption webpage="gigantografias" alt=""/>
+      <caption webpage="etiquetas" alt=""/>
+      <caption webpage="nota-de-crédito" alt=""/>
+      <caption webpage="recibos-de-caja" alt=""/>
+      <caption webpage="inventario" alt=""/>
+      <caption webpage="-nosotros-" alt=""/>
+      <caption webpage="papelería-corporativa" alt=""/>
+      <caption webpage="tickets-(rifas)" alt=""/>
+      <caption webpage="-promociones-" alt=""/>
+      <caption webpage="guía-de-remisión---remitente" alt=""/>
+      <caption webpage="boleta-de-venta" alt=""/>
+      <caption webpage="merchandising" alt=""/>
+      <caption webpage="-portafolio-" alt=""/>
+      <caption webpage="boleto-de-viaje" alt=""/>
+      <caption webpage="guía-de-remición---transportista" alt=""/>
+    </file>
+    <file name="contacto_instagram_poster_.png" crc="125815073" ref="index"/>
+    <file name="contacto_whatsapp.svg" crc="4062105984" seo="true" ref="index:-portafolio-:-nosotros-:-servicios-:-oficinas-:-clientes-:formatería-en-general:publicidad-impresa:gigantografias:merchandising:publicidad-virtual:papelería-corporativa:etiquetas:revista-kayros:factura:boleta-de-venta:guía-de-remisión---remitente:guía-de-remición---transportista:liquidación-de-compra:nota-de-crédito:boleto-de-viaje:recibos-de-caja:contratos:notas-de-pedido:proformas:-promociones-:tickets-(rifas):letras-de-cambio:hojas-de-control-diario:hoja-de-ruta:inventario">
+      <caption webpage="revista-kayros" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="hoja-de-ruta" alt=""/>
+      <caption webpage="hojas-de-control-diario" alt=""/>
+      <caption webpage="-oficinas-" alt=""/>
+      <caption webpage="formatería-en-general" alt=""/>
+      <caption webpage="letras-de-cambio" alt=""/>
+      <caption webpage="liquidación-de-compra" alt=""/>
+      <caption webpage="factura" alt=""/>
+      <caption webpage="contratos" alt=""/>
+      <caption webpage="proformas" alt=""/>
+      <caption webpage="publicidad-virtual" alt=""/>
+      <caption webpage="-clientes-" alt=""/>
+      <caption webpage="-servicios-" alt=""/>
+      <caption webpage="publicidad-impresa" alt=""/>
+      <caption webpage="notas-de-pedido" alt=""/>
+      <caption webpage="gigantografias" alt=""/>
+      <caption webpage="etiquetas" alt=""/>
+      <caption webpage="nota-de-crédito" alt=""/>
+      <caption webpage="recibos-de-caja" alt=""/>
+      <caption webpage="inventario" alt=""/>
+      <caption webpage="-nosotros-" alt=""/>
+      <caption webpage="papelería-corporativa" alt=""/>
+      <caption webpage="tickets-(rifas)" alt=""/>
+      <caption webpage="-promociones-" alt=""/>
+      <caption webpage="guía-de-remisión---remitente" alt=""/>
+      <caption webpage="boleta-de-venta" alt=""/>
+      <caption webpage="merchandising" alt=""/>
+      <caption webpage="-portafolio-" alt=""/>
+      <caption webpage="boleto-de-viaje" alt=""/>
+      <caption webpage="guía-de-remición---transportista" alt=""/>
+    </file>
+    <file name="contacto_whatsapp_poster_.png" crc="62923225" ref="index"/>
+    <file name="servicios_parallax.png" crc="220995229" ref="-portafolio-:-nosotros-:-servicios-:-promociones-">
+      <caption webpage="-portafolio-" alt=""/>
+      <caption webpage="-promociones-" alt=""/>
+      <caption webpage="-servicios-" alt=""/>
+      <caption webpage="-nosotros-" alt=""/>
+    </file>
+    <file name="imagen pegada 1600x900.jpg" crc="148225022" seo="true" ref="-portafolio-">
+      <caption webpage="-portafolio-" alt=""/>
+    </file>
+    <file name="fondo-u9920-fr.png" crc="3995448271" ref="-nosotros-"/>
+    <file name="valores.png" crc="198294552" seo="true" ref="-nosotros-">
+      <caption webpage="-nosotros-" alt=""/>
+    </file>
+    <file name="kayros razones.png" crc="3861937644" seo="true" ref="-nosotros-">
+      <caption webpage="-nosotros-" alt=""/>
+    </file>
+    <file name="facturas-1.jpg" crc="62791560" seo="true" ref="-servicios-:factura">
+      <caption webpage="-servicios-" alt=""/>
+      <caption webpage="factura" alt=""/>
+    </file>
+    <file name="facturas-2.png" crc="3872245106" seo="true" ref="-servicios-:factura">
+      <caption webpage="-servicios-" alt=""/>
+      <caption webpage="factura" alt=""/>
+    </file>
+    <file name="facturas-3.png" crc="3997477743" seo="true" ref="-servicios-:factura">
+      <caption webpage="-servicios-" alt=""/>
+      <caption webpage="factura" alt=""/>
+    </file>
+    <file name="cactus.jpg" crc="264913169" seo="true" ref="formatería-en-general:guía-de-remisión---remitente:guía-de-remición---transportista:liquidación-de-compra:nota-de-crédito:boleto-de-viaje:recibos-de-caja:contratos:notas-de-pedido:proformas:tickets-(rifas):letras-de-cambio:hojas-de-control-diario:hoja-de-ruta:inventario">
+      <caption webpage="recibos-de-caja" alt=""/>
+      <caption webpage="notas-de-pedido" alt=""/>
+      <caption webpage="hoja-de-ruta" alt=""/>
+      <caption webpage="hojas-de-control-diario" alt=""/>
+      <caption webpage="nota-de-crédito" alt=""/>
+      <caption webpage="formatería-en-general" alt=""/>
+      <caption webpage="letras-de-cambio" alt=""/>
+      <caption webpage="tickets-(rifas)" alt=""/>
+      <caption webpage="contratos" alt=""/>
+      <caption webpage="proformas" alt=""/>
+      <caption webpage="guía-de-remisión---remitente" alt=""/>
+      <caption webpage="inventario" alt=""/>
+      <caption webpage="liquidación-de-compra" alt=""/>
+      <caption webpage="boleto-de-viaje" alt=""/>
+      <caption webpage="guía-de-remición---transportista" alt=""/>
+    </file>
+    <file name="road.jpg" crc="4087010447" seo="true" ref="formatería-en-general:guía-de-remisión---remitente:guía-de-remición---transportista:liquidación-de-compra:nota-de-crédito:boleto-de-viaje:recibos-de-caja:contratos:notas-de-pedido:proformas:tickets-(rifas):letras-de-cambio:hojas-de-control-diario:hoja-de-ruta:inventario">
+      <caption webpage="recibos-de-caja" alt=""/>
+      <caption webpage="notas-de-pedido" alt=""/>
+      <caption webpage="hoja-de-ruta" alt=""/>
+      <caption webpage="hojas-de-control-diario" alt=""/>
+      <caption webpage="nota-de-crédito" alt=""/>
+      <caption webpage="formatería-en-general" alt=""/>
+      <caption webpage="letras-de-cambio" alt=""/>
+      <caption webpage="tickets-(rifas)" alt=""/>
+      <caption webpage="contratos" alt=""/>
+      <caption webpage="proformas" alt=""/>
+      <caption webpage="guía-de-remisión---remitente" alt=""/>
+      <caption webpage="inventario" alt=""/>
+      <caption webpage="liquidación-de-compra" alt=""/>
+      <caption webpage="boleto-de-viaje" alt=""/>
+      <caption webpage="guía-de-remición---transportista" alt=""/>
+    </file>
+    <file name="trees.jpg" crc="4148655953" seo="true" ref="formatería-en-general:guía-de-remisión---remitente:guía-de-remición---transportista:liquidación-de-compra:nota-de-crédito:boleto-de-viaje:recibos-de-caja:contratos:notas-de-pedido:proformas:tickets-(rifas):letras-de-cambio:hojas-de-control-diario:hoja-de-ruta:inventario">
+      <caption webpage="recibos-de-caja" alt=""/>
+      <caption webpage="notas-de-pedido" alt=""/>
+      <caption webpage="hoja-de-ruta" alt=""/>
+      <caption webpage="hojas-de-control-diario" alt=""/>
+      <caption webpage="nota-de-crédito" alt=""/>
+      <caption webpage="formatería-en-general" alt=""/>
+      <caption webpage="letras-de-cambio" alt=""/>
+      <caption webpage="tickets-(rifas)" alt=""/>
+      <caption webpage="contratos" alt=""/>
+      <caption webpage="proformas" alt=""/>
+      <caption webpage="guía-de-remisión---remitente" alt=""/>
+      <caption webpage="inventario" alt=""/>
+      <caption webpage="liquidación-de-compra" alt=""/>
+      <caption webpage="boleto-de-viaje" alt=""/>
+      <caption webpage="guía-de-remición---transportista" alt=""/>
+    </file>
+    <file name="boletas-1.jpg" crc="138147560" seo="true" ref="boleta-de-venta">
+      <caption webpage="boleta-de-venta" alt=""/>
+    </file>
+    <file name="boletas-2.png" crc="245449371" seo="true" ref="boleta-de-venta">
+      <caption webpage="boleta-de-venta" alt=""/>
+    </file>
+    <file name="boletas-3.jpg" crc="3984588478" seo="true" ref="boleta-de-venta">
+      <caption webpage="boleta-de-venta" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4048006134" seo="true" mt="1532030778371" redirect="true"/>
+  <file name="-portafolio-.html" crc="127521521" seo="true" mt="1532030778371" redirect="true"/>
+  <file name="-nosotros-.html" crc="247542728" seo="true" mt="1532030778371" redirect="true"/>
+  <file name="-servicios-.html" crc="257915852" seo="true" mt="1532042842975" redirect="true"/>
+  <file name="-oficinas-.html" crc="267138459" seo="true" mt="1532030778371" redirect="true"/>
+  <file name="-clientes-.html" crc="346384738" seo="true" mt="1532030778371" redirect="true"/>
+  <file name="formatería-en-general.html" crc="3910190795" seo="true" mt="1532036421183" redirect="true"/>
+  <file name="publicidad-impresa.html" crc="526268703" seo="true" mt="1532030778371" redirect="true"/>
+  <file name="gigantografias.html" crc="246178379" seo="true" mt="1532030778371" redirect="true"/>
+  <file name="merchandising.html" crc="3971473384" seo="true" mt="1532030778371" redirect="true"/>
+  <file name="publicidad-virtual.html" crc="235881149" seo="true" mt="1532030778371" redirect="true"/>
+  <file name="papelería-corporativa.html" crc="484153225" seo="true" mt="1532030778371" redirect="true"/>
+  <file name="etiquetas.html" crc="3850414239" seo="true" mt="1532030778371" redirect="true"/>
+  <file name="revista-kayros.html" crc="71000223" seo="true" mt="1532030778371" redirect="true"/>
+  <file name="factura.html" crc="3803336017" seo="true" mt="1532038033975" redirect="true"/>
+  <file name="boleta-de-venta.html" crc="6306516" seo="true" mt="1532042453980" redirect="true"/>
+  <file name="guía-de-remisión---remitente.html" crc="4136743609" seo="true" mt="1532034354466" redirect="true"/>
+  <file name="guía-de-remición---transportista.html" crc="3890594828" seo="true" mt="1532034393518" redirect="true"/>
+  <file name="liquidación-de-compra.html" crc="4066882073" seo="true" mt="1532035068729" redirect="true"/>
+  <file name="nota-de-crédito.html" crc="4207222113" seo="true" mt="1532034472674" redirect="true"/>
+  <file name="boleto-de-viaje.html" crc="403794134" seo="true" mt="1532035084898" redirect="true"/>
+  <file name="recibos-de-caja.html" crc="248433674" seo="true" mt="1532035678496" redirect="true"/>
+  <file name="contratos.html" crc="4027511196" seo="true" mt="1532035678505" redirect="true"/>
+  <file name="notas-de-pedido.html" crc="3901215587" seo="true" mt="1532035690440" redirect="true"/>
+  <file name="proformas.html" crc="3770226195" seo="true" mt="1532035678491" redirect="true"/>
+  <file name="-promociones-.html" crc="311364421" seo="true" mt="1532030778371" redirect="true"/>
+  <file name="tickets-(rifas).html" crc="490925689" seo="true" mt="1532035777190" redirect="true"/>
+  <file name="letras-de-cambio.html" crc="4234372144" seo="true" mt="1532035943105" redirect="true"/>
+  <file name="hojas-de-control-diario.html" crc="299029053" seo="true" mt="1532036186026" redirect="true"/>
+  <file name="hoja-de-ruta.html" crc="346844056" seo="true" mt="1532036264569" redirect="true"/>
+  <file name="inventario.html" crc="3939751537" seo="true" mt="1532036319063" redirect="true"/>
+</manifest>
